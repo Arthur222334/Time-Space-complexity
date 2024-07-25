@@ -1,0 +1,4 @@
+package PRact
+
+class MultiArray {
+}
